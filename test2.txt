@@ -1,0 +1,12 @@
+ Volume in drive D is DATA
+ Volume Serial Number is EC7F-A107
+
+ Directory of D:\AI\Git_Project
+
+06/26/2018  05:41 AM    <DIR>          .
+06/26/2018  05:41 AM    <DIR>          ..
+06/25/2018  11:47 PM               385 index.html
+06/25/2018  11:47 PM               347 test.txt
+06/26/2018  05:45 AM                 0 test2.txt
+               3 File(s)            732 bytes
+               2 Dir(s)  59,142,950,912 bytes free
